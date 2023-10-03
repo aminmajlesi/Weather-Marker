@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">HamrahChallenge8</string>
+
+    <string name="api_key">AIzaSyCbdRtsxZ7yUTFa20Nv5niFn7i9oE-0KtI</string>
+    <string name="weather_selected_status">Click to show Weather Status: %s C</string>
+
+    <string name="open_weather_maps_app_id">617275b1619dc81324d79c8a575ce5dd</string>
 </resources>
