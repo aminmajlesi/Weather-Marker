@@ -1,7 +1,8 @@
-package com.example.hamrahchallenge8
+package com.example.hamrahchallenge8.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.hamrahchallenge8.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
